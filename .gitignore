@@ -1,0 +1,8 @@
+# Données privées
+data/
+output/
+*.csv
+*.pdf
+__pycache__/
+venv/
+.env
